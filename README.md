@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sagar Tarak and I'm a MERN Stack Developer , from Raipur Chhattishgarh , India </h2>
 
 ###
 
