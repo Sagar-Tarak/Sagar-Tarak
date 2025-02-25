@@ -32,8 +32,9 @@ Passionate about building scalable web applications and ensuring software qualit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="Top Languages" width="50%"/>
 </p>
+
 
 ---
 
