@@ -27,12 +27,12 @@ Passionate about building scalable web applications and ensuring software qualit
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true&background=0d1117&stroke=79c0ff" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="Top Languages" width="50%"/>
 </p>
 
 ---
@@ -57,4 +57,3 @@ Passionate about building scalable web applications and ensuring software qualit
 _"Code is like humor. When you have to explain it, it’s bad."_ 😆  
 
 ---
-
