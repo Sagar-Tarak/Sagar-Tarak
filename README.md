@@ -52,8 +52,8 @@ Passionate about building scalable web applications and ensuring software qualit
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-tarak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=sagar-tarak&theme=tokyonight&hide_border=true&background=0d1117&stroke=79c0ff" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-tarak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=79c0ff" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=sagar-tarak&theme=tokyonight&hide_border=true&background=0d1117&stroke=79c0ff" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
